@@ -1,6 +1,6 @@
 {
   "name": "donelle",
-   "homepage": "https://tyjay00.github.io/donelle",
+  "homepage": "https://tyjay00.github.io/donelle",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.575.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
